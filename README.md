@@ -113,6 +113,6 @@ Contributions, suggestions, and improvements are welcome! Feel free to fork and 
 
 Created by Pathmanathan Krishogaran  
 📧 agalyabrindhu@gmail.com  
-🌐 [Your Portfolio or GitHub](https://github.com/KishoTh18)
+🌐 [My GitHub](https://github.com/KishoTh18)
 
 ---
